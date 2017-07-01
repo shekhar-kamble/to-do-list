@@ -1,0 +1,19 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "To-do list api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"error:no test\" && exit 1"
+  },
+  "author": "shekhar K",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8"
+  }
+}
